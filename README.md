@@ -2,7 +2,7 @@
 
 Introduction:
 
-This project is a demonstration of my ability to use SQL to answer questions about a database. I was given a database of students and courses, and I was asked to answer 11 questions about the data. The questions were of varying difficulty, with 5 easy, 3 moderate, and 3 advanced questions.
+This project is a demonstration of my ability to use SQL to answer questions about a database. I was given a database of a music store, and I was asked to answer 11 questions about the data. The questions were of varying difficulty, with 5 easy, 3 moderate, and 3 advanced questions.
 
 Solutions:
 
